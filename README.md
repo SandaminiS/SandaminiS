@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Sandamini Senaratne
+### Hi there! 👋 I'm Sandamini Senaratne
 
 - 🌱 Currently working on **LS-SVDD-based One-Class Classification**
 - 🔍 Exploring **Machine Learning, Deep Learning, and Data Analytics**
