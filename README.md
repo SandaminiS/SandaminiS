@@ -1,4 +1,3 @@
-```
 ### Hi there! 👋 I'm Sandamini Senaratne
 
 Ph.D. in Big Data Analytics (UCF, 2026) | Lecturer, UTRGV | working on anomaly detection and one-class classification with LS-SVDD/SVDD and neural network embeddings.
@@ -10,4 +9,3 @@ Ph.D. in Big Data Analytics (UCF, 2026) | Lecturer, UTRGV | working on anomaly d
 - 🛠️ **Tools:** Python | R | SQL | SAS | PyTorch | scikit-learn | Kaldi
 - 🎓 **Teaching Portfolio:** https://sites.google.com/view/pssenaratne/home
 - 📫 **Contact:** [sandaminisenaratne@gmail.com](mailto:sandaminisenaratne@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sandamini-senaratne)
-```
